@@ -50,6 +50,7 @@ El orden que iremos siguiendo será el siguiente (esto podrá estar sujeto a cam
 | Sábado 03-Junio    | Visualizacion       |
 
 
+----- 
 
 **MÓDULO 2**
 
