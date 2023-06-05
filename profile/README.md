@@ -10,3 +10,12 @@ MÓDULO 1
 |-----------------|----------------------------------------------|
 | Miércoles 03-Mayo | presentación, terminal, git & configuración ordenadores              |
 | Sábado 06-Mayo    | Tipos de datos & Estructuras de datos         |
+
+
+[Semana 2](https://github.com/Ironhack-Data-Madrid-PartTime-May22/apuntes_clases/tree/main/semana-02)
+
+| Día             | Temario                                      |
+|-----------------|----------------------------------------------|
+| Martes 09-Mayo | Métodos de los strings & Manejo de errores             |
+| Miércoles 10-Mayo    | Control de flujo        |
+| Sábado 13-Mayo    | Funciones       |
