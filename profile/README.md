@@ -47,7 +47,7 @@ El orden que iremos siguiendo será el siguiente (esto podrá estar sujeto a cam
 |-----------------|----------------------------------------------|
 | Lunes 29-Mayo | Concat, Merge, Join     |
 | Miércoles 31-Mayo    | Regex   |
-| Sábado 03-Junio    | Visualizacion       |
+| Sábado 03-Junio    | Visualización       |
 
 
 ----- 
@@ -58,6 +58,6 @@ El orden que iremos siguiendo será el siguiente (esto podrá estar sujeto a cam
 
 | Día             | Temario                                      |
 |-----------------|----------------------------------------------|
-| Lunes 05-Junio  | Intro SQL & Queries     |
+| Lunes 05-Junio  | Intro SQL & Actualización     |
 
 
