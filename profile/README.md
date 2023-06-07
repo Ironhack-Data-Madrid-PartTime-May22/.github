@@ -58,6 +58,10 @@ El orden que iremos siguiendo será el siguiente (esto podrá estar sujeto a cam
 
 | Día             | Temario                                      |
 |-----------------|----------------------------------------------|
-| Lunes 05-Junio  | Intro SQL & Actualización     |
+| Lunes 05-Junio  | Intro SQL: Creación, Inserción y Actualización de datos  |
+| Miércoles 07-Junio  | Queries    |
+
+
+
 
 
